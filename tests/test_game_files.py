@@ -1,4 +1,4 @@
-from arcade_test import __version__
+from game_files import __version__
 
 
 def test_version():
